@@ -1,7 +1,9 @@
 # BudgetTracker
 ---
 GUI budget tracking application made with Qt6.
+
 Final Project for CSC-284 - Advanced C++/OOP, Fall 2023
+
 Uploaded retroactively to familiarize myself with git
 ---
 
