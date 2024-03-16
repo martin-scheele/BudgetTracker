@@ -5,12 +5,12 @@ GUI budget tracking application made with Qt6.
 Final Project for CSC-284 - Advanced C++/OOP, Fall 2023
 
 Uploaded retroactively to familiarize myself with git
+
 ---
 
 # Changelog 
+---
 
----
----
 ## Final Project - Final Submission - 12/15/23
 
 ---
@@ -53,7 +53,7 @@ Uploaded retroactively to familiarize myself with git
 - When changing the transactionTableView headers, a white rectangle extends from the header outside of the group box to the right.
 
 ---
---- 
+
 ## Final Project - Status Report 2 - 12/3/23
 
 ---
@@ -87,7 +87,7 @@ Uploaded retroactively to familiarize myself with git
 - 12/11 - 12/15: Create documentation, video demonstration, installation manual, and user manual.
 
 ---
----
+
 ## Final Project - Status Report 1  - 11/19/23
 
 ---
