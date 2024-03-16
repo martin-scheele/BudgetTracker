@@ -1,6 +1,6 @@
 # BudgetTracker
 ---
-GUI budget tracking application made with Qt6.
+GUI budget tracking application made with Qt6, using [QCustomPlot](https://www.qcustomplot.com/).
 
 Final Project for CSC-284 - Advanced C++/OOP, Fall 2023
 
